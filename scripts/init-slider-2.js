@@ -28,7 +28,7 @@ $(function() {
                     },
                     tabs: {
                         style: "metis",
-                        enable: true,
+                        enable: false,
                         width: 250,
                         height: 40,
                         min_width: 249,
