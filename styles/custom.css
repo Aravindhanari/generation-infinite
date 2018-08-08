@@ -75,3 +75,18 @@
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 30px; }
 }
+
+.no-margin {
+    margin: 0 !important;
+}
+
+.productLink {
+    display: inline-block;
+    box-shadow: 0 0 14px #CCC;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+
+.productLink:hover {
+    box-shadow: 0 0 15px 5px #CCC;
+}
